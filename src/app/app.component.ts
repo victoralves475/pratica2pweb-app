@@ -8,6 +8,7 @@ import { RouterOutlet } from '@angular/router';
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
+// Altere o template do componente app (app.component.html) para conter seu nome completo
 export class AppComponent {
-  title = 'pratica2pweb-app';
+  title = 'Prática PWEB1 - Hello World! - Antonio Victor Alves da Costa';
 }
